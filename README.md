@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://githubschool.github.io/github-games-Nbeites
+You can play the game at: [https://githubschool.github.io/github-games-Nbeites](https://gh-dev-ws-20250127.github.io/github-games-Nbeites)
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
